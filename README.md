@@ -1,2 +1,2 @@
-nobita # our_project
+nobita & shizuka # our_project
 Git演習用
