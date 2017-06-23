@@ -1,2 +1,2 @@
-# our_project
+shizuka # our_project
 Git演習用
