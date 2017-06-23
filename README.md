@@ -1,2 +1,2 @@
-# our_project
+nobita # our_project
 Git演習用
